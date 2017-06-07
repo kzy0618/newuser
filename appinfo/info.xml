@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<info>
+    <id>newuser</id>
+    <name>New User</name>
+    <description>Application to help new users</description>
+    <licence>AGPL</licence>
+    <author>Daugieras</author>
+    <version>0.0.1</version>
+    <namespace>NewUser</namespace>
+    <category>other</category>
+    <dependencies>
+        <owncloud min-version="8" max-version="9.1" />
+    </dependencies>
+</info>
